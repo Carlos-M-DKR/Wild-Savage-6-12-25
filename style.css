@@ -20,8 +20,7 @@ h1 h2
  
 article
  {
-background-color:burlywood;
-background-image: url(https://t3.ftcdn.net/jpg/08/06/56/54/360_F_806565433_nVW4dOA5vfbJAUZQplsc3euTuZ2B7uf0.jpg);
+background-image: url('https://t3.ftcdn.net/jpg/08/06/56/54/360_F_806565433_nVW4dOA5vfbJAUZQplsc3euTuZ2B7uf0.jpg');
 width: 500;
 height: 500;
 color: rgb(3, 65, 209);
@@ -57,9 +56,10 @@ input[type="test"]
     height: 200px;
     background-color: dodgerblue;
 }
+
 .item
 {
-    flex: 1;
+    flex:1;
     align-self: center;
     background-color: steelblue;
     color: whitesmoke
