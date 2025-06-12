@@ -49,3 +49,18 @@ input[type="test"]
 { 
     color:magenta
 }
+
+.container{
+    display.flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 200px;
+    background-color: dodgerblue;
+}
+.item
+{
+    flex: 1;
+    align-self: center;
+    background-color: steelblue;
+    color: whitesmoke
+}
