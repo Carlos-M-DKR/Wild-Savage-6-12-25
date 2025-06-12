@@ -1,0 +1,39 @@
+  h1
+                {
+                    background-color: green;
+                    font-famil:sans-serif ;
+                }
+
+ body
+ {
+    background-color:greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+     color:rgb(0, 0, 0)
+ }
+h1 h2
+{
+    color:darkturquoise;
+    font-family:sans-serif
+}
+ article
+ {
+background-color:burlywood;
+background-image: url(https://www.instagram.com/p/DI9oKK6TEhF/?img_index=1)
+
+ }
+ 
+
+ div p
+ {
+    color:dodgerblue;
+    font-family: Comic Sans;
+ }
+
+:hover
+{
+    color:rgb(0, 0, 0)
+}
+input[type="test"]
+{ 
+    color:magenta
+}
