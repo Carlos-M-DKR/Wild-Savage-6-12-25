@@ -26,6 +26,12 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
  
 
+.blur
+{
+    backdrop-filter: blur(5px);
+    background-color: red;
+}
+
  div p
  {
     color:dodgerblue;
