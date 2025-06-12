@@ -1,12 +1,12 @@
   h1
                 {
-                    background-color: green;
+                    background-color: rgb(0, 85, 204);
                     font-famil:sans-serif ;
                 }
 
  body
  {
-    background-color:greenyellow;
+    background-color:rgb(64, 136, 225);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
      color:rgb(0, 0, 0)
  }
@@ -18,8 +18,12 @@ h1 h2
  article
  {
 background-color:burlywood;
-background-image: url(https://media.discordapp.net/attachments/726635990554247238/1382818165670674473/IMG_2465.jpg?ex=684c8946&is=684b37c6&hm=836ccd4664edead8118abb443067b8e9c7142e70f256305f213de1d2a03d65f2&=&format=webp&width=578&height=770)
- }
+background-image: url(https://en.wikipedia.org/wiki/Schnauzer);
+width: 500;
+height: 500;
+color: rgb(3, 65, 209);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
  
 
  div p
