@@ -4,7 +4,7 @@
  {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 10px;
+    /*gap: 10px;*/
     background-color:powderblue;  
  }
 
@@ -12,7 +12,7 @@
 {
     background-color: midnightblue;
     color:turquoise;
-    padding: 20px;
+    /*padding: 20px;*/
     text-align: center;
     font-size: 16px;
 }
