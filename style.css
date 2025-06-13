@@ -52,7 +52,7 @@ input[type="test"]
     display:flex;
     flex-direction: row;
     justify-content: center;
-    height: 200px;
+    height: 2px;
     background-color: dodgerblue;
 }
 
