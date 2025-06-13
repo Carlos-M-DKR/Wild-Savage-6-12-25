@@ -4,7 +4,7 @@
  {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    /*gap: 10px;*/
+    gap: 10px;
     background-color:powderblue;  
  }
 
@@ -12,7 +12,7 @@
 {
     background-color: midnightblue;
     color:turquoise;
-    /*padding: 20px;*/
+    padding: 20px;
     text-align: center;
     font-size: 16px;
 }
@@ -68,8 +68,8 @@ input[type="test"]
 
 .container{
     display:flex;
-    flex-direction: row;
-    justify-content: center;
+    /*flex-direction: row;
+    justify-content: center;*/
     height: 2px;
     background-color: dodgerblue;
 }
@@ -77,7 +77,7 @@ input[type="test"]
 .item
 {
     flex:1;
-    align-self: center;
+    /*align-self: center;*/
     background-color: steelblue;
     color: whitesmoke
 }
